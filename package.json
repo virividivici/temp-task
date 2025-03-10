@@ -1,0 +1,32 @@
+{
+  "name": "react-list",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "vite src --open",
+    "build": "vite build"
+  },
+  "engines": {
+    "node": ">=14",
+    "npm": ">=7",
+    "yarn": "\n\n\n\u001b[1;31m[ERROR]\u001b[32m Please use npm instead!\u001b[0m\n\n\n"
+  },
+  "dependencies": {
+    "@onfido/castor": "^2.4.9",
+    "@onfido/castor-icons": "^2.23.2",
+    "@onfido/castor-react": "^2.4.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "sass": "^1.85.1",
+    "stylelint-config-sass-guidelines": "^12.1.0",
+    "typescript": "^4.4.4",
+    "vite": "^6.2.0"
+  }
+}
